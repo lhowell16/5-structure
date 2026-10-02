@@ -1,12 +1,12 @@
 html {
-    background-color: rgb(255, 196, 232);
+    background-color: rgb(253, 175, 222);
 }
 
 body {
     margin: 0;
 }
 .site-header {
-    background-color: rgb(46, 60, 125);
+    background-color: rgb(121, 46, 125);
     padding: 30px;
     color:rgb(255, 168, 214);
     margin-bottom: 20px;
@@ -17,7 +17,7 @@ body {
 }
 
 .nav-links {
-    color:rgb(203, 173, 252)
+    color:rgb(16, 131, 188)
 }
 
 .main-content {
@@ -27,6 +27,6 @@ margin-bottom: 20px;
 }
 
 .site-footer {
-    background-color: rgb(252, 179, 234);
+    background-color: rgb(229, 131, 230);
 padding: 30px;
 }
